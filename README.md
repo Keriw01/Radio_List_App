@@ -1,5 +1,3 @@
-# Radio_List_App
+# Radio List [ Flutter App ]
 
-A new Flutter project.
-
-## Getting Started
+Aplikacja umożliwiająca zapisywanie na liście, produktu typu radio samochodowe. Możliwe jest edytowanie dodanego elementu, przeniesienie go do listy sprzedanych oraz usunięcie go.
